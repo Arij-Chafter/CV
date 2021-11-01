@@ -1,0 +1,308 @@
+body{
+    background-color:darkgray
+    
+
+}
+.centre{
+    position:relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 900px;
+    border: 10px solid black;
+    width: 700px;
+}
+
+
+
+.partieD{
+    float:right;
+    width:70%;
+    height:900px;
+    background-color:white;
+    
+}
+.bg{
+    width:490px;
+    height: 820px;
+    margin-top:80px;
+    border-top-left-radius: 40px;
+    
+
+}
+.nom{
+    position:absolute;
+    top:0%;
+    color:rgb(0, 0, 0);
+    font-family: times, "Times New Roman",;
+    font-size :250%;
+    margin-left:150px;
+}
+.post{
+    margin-left: 10px;
+    position:absolute;
+    top:8%;
+    color:white;
+    font-family: calibri;
+    font-size :140%;
+    text-decoration: underline;
+}
+.decrire{
+    position:absolute;
+    color:white;
+    top:13%;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: justify;
+}
+.partie2{
+    margin-left:30px;
+}
+.experiences{
+    border-radius: 10px;
+    background-color: white;
+    color:rgb(40, 157, 253);
+    top:22%;
+    position:absolute;
+    margin-left: 2.5%;
+}
+.entrp1{
+    position:absolute;
+    top:30%;
+    color:rgb(132, 198, 241);
+
+}
+.date1{
+    position:absolute;
+    top:33%;
+    color:rgb(255, 255, 255);
+}
+.fonction1{
+    position:absolute;
+    top:36%;
+    color:rgb(255, 255, 255);
+}
+.partie3{
+    margin-left:30px;
+}
+.formation{
+    border-radius: 10px;
+    background-color: white;
+    color:rgb(40, 157, 253);
+    top:45%;
+    position:absolute;
+    margin-left: 20%;
+}
+.diplome{
+    position:absolute;
+    top:53%;
+    color:rgb(132, 198, 241);
+
+}
+.date2{
+    position:absolute;
+    top:56%;
+    color:rgb(255, 255, 255);
+}
+.descrip{
+    position:absolute;
+    top:59%;
+    color:rgb(255, 255, 255);
+}
+.comp{
+    border-radius: 10px;
+    background-color: white;
+    color:rgb(40, 157, 253);
+    top:68%;
+    position:absolute;
+    margin-left: 19%;
+
+}
+.partie4{
+    margin-left:30px;
+}
+.gestion{
+    position:absolute;
+    top:75%;
+    color:rgb(255, 255, 255);
+    
+    
+}
+.note1{
+    position:absolute;
+    top:80%;
+    display:block;
+    background-color:rgb(132, 198, 241);;
+    width: 190px;
+    border:solid rgb(132, 198, 241);;
+    border-radius: 10px;
+}
+.management{
+    position:absolute;
+    top:80%;
+    color:rgb(255, 255, 255);
+    
+    
+}
+.note2{
+    position:absolute;
+    top:85%;
+    display:block;
+    background-color:rgb(132, 198, 241);;
+    width: 110px;
+    border:solid rgb(132, 198, 241);;
+    border-radius: 10px;
+}
+.photoshop{
+    position:absolute;
+    top:85%;
+    color:rgb(255, 255, 255);
+    
+    
+}
+.note3{
+    position:absolute;
+    top:90%;
+    display:block;
+    background-color:rgb(132, 198, 241);;
+    width: 140px;
+    border:solid rgb(132, 198, 241);
+    border-radius: 10px;
+}
+.partieG{
+    float:left;
+    background-color:rgb(255, 255, 255);
+    height:900px;
+    width: 30%;
+    font-family:calibri;
+    
+}
+.photo{
+    position:absolute;
+    top:0%;
+    border-radius: 50%;
+    border:solid rgb(132, 198, 241);
+    width: 29%;
+}
+
+.mail{
+    position:absolute;
+    top:25%;
+    width:5%;
+    margin-left: 90px;
+    
+}
+.mailtxt{
+    position:absolute;
+    top:27%;
+    margin-left:40px;
+    font-weight: bold;
+    
+}
+.tel{
+    position:absolute;
+    top:31%;
+    width:6.5%;
+   
+    margin-left:85px;
+    
+    
+    
+}
+.teltxt{
+    position:absolute;
+    top:34%;
+    margin-left:70px;
+    font-weight: bold;
+    
+}
+.pos{
+    position:absolute;
+    top:39%;
+    width:5%;
+    margin-left: 90px;
+    
+}
+.postxt{
+    position:absolute;
+    top:42%;
+    margin-left:75px;
+    font-weight: bold;
+}
+.in{
+    position:absolute;
+    top:47%;
+    width:5%;
+    margin-left: 90px;
+    
+}
+.intxt{
+    position:absolute;
+    top:50%;
+    margin-left:75px;
+    font-weight: bold;
+}
+.lang{
+    background-color:rgb(0, 0, 0);
+    border :solid ;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color:white;
+    top:55%;
+    position:absolute;
+    margin-left:55px;
+
+}
+.langtxt{
+    position:absolute;
+    top:60%;
+    margin-left:20px;
+    text-align: justify;
+    font-size:18px;
+}
+.perso{
+    background-color:rgb(0, 0, 0);
+    border :solid ;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color:white;
+    top:69%;
+    position:absolute;
+    margin-left:30px;
+
+}
+.ponctu{
+    position:absolute;
+    top:76%;
+    text-decoration: underline;
+    font-weight: bold;
+    color:rgb(2, 136, 177);
+    font-size: 20px;
+    
+
+}
+.ponctutxt{
+    position:absolute;
+    top:77%;
+    font-family: arial;
+    width:24%;
+    
+}
+.rig{
+    position:absolute;
+    top:87%;
+    text-decoration: underline;
+    font-weight: bold;
+    color:rgb(2, 136, 177);
+    font-size: 20px;
+    
+    
+
+}
+.rigtxt{
+    position:absolute;
+    top:88%;
+    font-family: arial;
+    width:24%;
+    
+}
